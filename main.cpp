@@ -12,6 +12,7 @@ int main()
 	
 	
 	int opcion;
+	cout<<"bienvenido"<<endl;
 	do
 	{
 		cout<<"1. mostrar lista de productos"<<endl;
